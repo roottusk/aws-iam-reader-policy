@@ -1,5 +1,5 @@
 {
-  "Version": "2021-03-24",
+  "Version": "2012-10-17",
   "Statement": [
     {
       "Sid": "ReaderPolicy",
