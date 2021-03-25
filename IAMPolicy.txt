@@ -138,7 +138,7 @@
         "polly:List*",
         "pricing:Get*",
         "rds:List*",
-        "rds:Describe*"
+        "rds:Describe*",
         "redshift:Get*",
         "rekognition:Get*",
         "rekognition:List*",
