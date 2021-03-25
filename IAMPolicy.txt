@@ -74,7 +74,9 @@
         "ecr:Get*",
         "ecr:List*",
         "ecs:List*",
+        "elasticloadbalancing:Describe*",
         "elasticache:List*",
+        "elasticbeanstalk:Describe*",
         "elasticbeanstalk:List*",
         "elasticmapreduce:List*",
         "elastictranscoder:List*",
@@ -136,6 +138,7 @@
         "polly:List*",
         "pricing:Get*",
         "rds:List*",
+        "rds:Describe*"
         "redshift:Get*",
         "rekognition:Get*",
         "rekognition:List*",
